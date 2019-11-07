@@ -1,0 +1,11 @@
+$ python server.py 5000
+Client ID 1
+Server Key Check using Pu-Pv key check
+Client ID 2
+Server Key Check using Pu-Pv key check
+Client ID 2
+Server Key Check using Pu-Pv key check
+Client ID 1
+Server Key Check using Pu-Pv key check
+
+

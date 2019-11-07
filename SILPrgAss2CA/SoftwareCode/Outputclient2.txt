@@ -1,0 +1,63 @@
+$ python client.py 5002 2
+Set Connection Parameters
+Client ID: 2
+--------------------------------------------
+Choose Operation :
+ (1) Get CA Certificate 
+ (2) Send Hello Msg to Client 
+ (3) Receive Hello Msg from client
+ (4) Send ACK Msg to Client 
+ (5) Receive ACK Msg from client
+1
+Generate Certificate
+Read Public Key for server and client
+RSA Encryption using Public Key for server and client 
+Certificate saved!
+
+Client ID: 2
+--------------------------------------------
+Choose Operation :
+ (1) Get CA Certificate 
+ (2) Send Hello Msg to Client 
+ (3) Receive Hello Msg from client
+ (4) Send ACK Msg to Client 
+ (5) Receive ACK Msg from client
+3
+Message received from client 1: hello1
+
+Client ID: 2
+--------------------------------------------
+Choose Operation :
+ (1) Get CA Certificate 
+ (2) Send Hello Msg to Client 
+ (3) Receive Hello Msg from client
+ (4) Send ACK Msg to Client 
+ (5) Receive ACK Msg from client
+1
+Generate Certificate
+Read Public Key for server and client
+RSA Encryption using Public Key for server and client 
+Certificate saved!
+
+Client ID: 2
+--------------------------------------------
+Choose Operation :
+ (1) Get CA Certificate 
+ (2) Send Hello Msg to Client 
+ (3) Receive Hello Msg from client
+ (4) Send ACK Msg to Client 
+ (5) Receive ACK Msg from client
+4
+Enter Client ID: 1
+Certificate verified!
+Sent message to client 1
+
+Client ID: 2
+--------------------------------------------
+Choose Operation :
+ (1) Get CA Certificate 
+ (2) Send Hello Msg to Client 
+ (3) Receive Hello Msg from client
+ (4) Send ACK Msg to Client 
+ (5) Receive ACK Msg from client
+
